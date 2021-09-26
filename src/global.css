@@ -1,0 +1,16 @@
+.list-table {
+  width: 85%;
+  margin: 0 auto;
+  margin-top: 5%;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  padding: 10px;
+}
+.ant-input-number {
+  width: 100%;
+}
+.table-pagination {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 15px;
+}

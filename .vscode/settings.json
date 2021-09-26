@@ -1,0 +1,26 @@
+{
+  "cSpell.words": [
+    "Popconfirm",
+    "fontawesome",
+    "fortawesome",
+    "nocheck",
+    "umirc"
+  ],
+  "editor.formatOnSave": true,
+  "javascript.format.enable": false,
+  "eslint.alwaysShowStatus": true,
+  "eslint.options": {
+    "extensions": [".html", ".js", ".vue", ".jsx", "tsx", "ts"]
+  },
+  "eslint.validate": [
+    "html",
+    "vue",
+    "javascript",
+    "typescript",
+    "javascriptreat",
+    "typescriptreact"
+  ],
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  }
+}
